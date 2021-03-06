@@ -1,0 +1,3 @@
+find -type f -name '*text*' -delete
+find . -type f -name '*~*' -delete
+cd /media/paddy/BAT_01/ublox_dog-master
